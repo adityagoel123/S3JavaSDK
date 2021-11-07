@@ -20,8 +20,8 @@ import java.util.List;
 public class Application {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(Application.class);
-    private static final String AWS_ACCESS_KEY = "AKIASBIUPEJVGC22WN6W";
-    private static final String AWS_SECRET_KEY = "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";
+    private static final String AWS_ACCESS_KEY = "******";
+    private static final String AWS_SECRET_KEY = "*******";
     private static final String BUCKET_NAME_1 = "aditya-bucket-demo-11";
     private static final String FILE_1 = "himalayas.jpeg";
     private static final String FILE_1_AWS_NAME = "himalayas_upload_using_aws_sdk.jpeg";
